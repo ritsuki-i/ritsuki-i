@@ -8,6 +8,6 @@
 <table>
 <tr>
 <td><img alt="github-profile-views-counter" src="https://komarev.com/ghpvc/?username=ritsuki-i&color=orange" />
-<td><img alt="github-profile-views-counter" src="https://img.shields.io/github/followers/ritsuki-i?color=orange&logo=github" />
+<td><img alt="github-profile-followers-counter" src="https://img.shields.io/github/followers/ritsuki-i?color=orange&logo=github" />
 </tr>
 </table>
