@@ -1,7 +1,11 @@
 ### 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritsuki-i&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritsuki-i&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritsuki-i&layout=compact&theme=gruvbox&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
-<!--
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=ritsuki-i&theme=gruvbox&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritsuki-i&layout=compact&theme=gruvbox" />
+</p>
 **ritsuki-i/ritsuki-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
