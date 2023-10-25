@@ -29,8 +29,8 @@
 <div align="left">
   <img src="images/flask.jpg" alt="flask" width="40" height="40"/>
   <img src="images/selenium.png" alt="selenium" width="40" height="40"/>
-  <img src="images/numpy.png" alt="numpy" width="40" height="40"/>
-  <img src="images/scipy.png" alt="scipy" width="40" height="40"/>
+  <img src="images/numpy.jpg" alt="numpy" width="40" height="40"/>
+  <img src="images/scipy.jpg" alt="scipy" width="40" height="40"/>
   <img src="images/pytorch.jpg" alt="pytorch" width="40" height="40"/>
   <img src="images/matplotlib.png" alt="matplotlib" width="40" height="40"/>
   <img src="images/sklearn.jpg" alt="sklearn" width="40" height="40"/>
