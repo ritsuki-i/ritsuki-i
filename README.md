@@ -1,4 +1,9 @@
 <h1 align="center">Hello🌙I'm Ritsuki</h1> 
+<ul>
+  <p>My Portfolio: <a href="https://ritsuki-i.github.io/my-portfolio/" target="_blank" rel="noopener noreferrer">https://ritsuki-i.github.io/my-portfolio/</a></p>
+  <p>Self-introduction Site: <a href="https://ritsuki-i.github.io/kadai-portfolio/" target="_blank" rel="noopener noreferrer">https://ritsuki-i.github.io/kadai-portfolio/</a></p>
+</ul>
+
 <p align="left"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ritsuki-i&theme=gruvbox&show_icons=true" />
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritsuki-i&layout=compact&theme=gruvbox" />
