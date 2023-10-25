@@ -18,7 +18,7 @@
 </table>
 <h5 align="left">Programming Languages</h5>
 <div align="left" style="font-size:2em">
-  <img src="languages_and_tools/python.png" alt="cplusplus" width="40" height="40"/>
+  <img src="languages_and_tools/python.png" alt="python" width="40" height="40"/>
 </div>
 <h5 align="left">Frameworks and Libraries</h5>
 <div align="left">
