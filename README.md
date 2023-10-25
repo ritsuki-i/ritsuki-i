@@ -18,10 +18,20 @@
 </table>
 <h5 align="left">Programming Languages</h5>
 <div align="left" style="font-size:2em">
-  <img src="languages_and_tools/python.png" alt="python" width="40" height="40"/>
+  <img src="images/python.jpg" alt="python" width="40" height="40"/>
+  <img src="images/js.png" alt="js" width="40" height="40"/>
+  <img src="images/unity.png" alt="unity(c#)" width="40" height="40"/>
+  <img src="images/c.png" alt="c" width="40" height="40"/>
+  <img src="images/java.jpg" alt="java" width="40" height="40"/>
+  <img src="images/shakespear.png" alt="Shakespeare Programming Language" width="40" height="40"/>
 </div>
 <h5 align="left">Frameworks and Libraries</h5>
 <div align="left">
-  <img src="languages_and_tools/sklearn.svg" alt="scikit_learn" width="40" height="40"/>
-  <img src="languages_and_tools/selenium.svg" alt="selenium" width="40" height="40"/>
+  <img src="images/flask.jpg" alt="flask" width="40" height="40"/>
+  <img src="images/selenium.png" alt="selenium" width="40" height="40"/>
+  <img src="images/numpy.png" alt="numpy" width="40" height="40"/>
+  <img src="images/scipy.png" alt="scipy" width="40" height="40"/>
+  <img src="images/pytorch.jpg" alt="pytorch" width="40" height="40"/>
+  <img src="images/matplotlib.png" alt="matplotlib" width="40" height="40"/>
+  <img src="images/sklearn.jpg" alt="sklearn" width="40" height="40"/>
 </div>
