@@ -18,24 +18,10 @@
 </table>
 <h5 align="left">Programming Languages</h5>
 <div align="left" style="font-size:2em">
-  <img src="languages_and_tools/cplusplus.png" alt="cplusplus" width="40" height="40"/>
-  <img src="languages_and_tools/dart.svg" alt="dart" width="40" height="40"/>
-  <img src="languages_and_tools/javascript.svg" alt="javascript" width="40" height="40"/>
-  <img src="languages_and_tools/python.svg" alt="python" width="40" height="40"/>
-  <img src="languages_and_tools/ruby.svg" alt="ruby" width="40" height="40"/>
-  <img src="languages_and_tools/rust.svg" alt="rust" width="40" height="40"/>
-  <img src="languages_and_tools/typescript.png" alt="typescript" width="40" height="40"/> 
+  <img src="languages_and_tools/python.png" alt="cplusplus" width="40" height="40"/>
 </div>
 <h5 align="left">Frameworks and Libraries</h5>
 <div align="left">
-  <img src="languages_and_tools/bootstrap.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="languages_and_tools/flutter.svg" alt="flutter" width="40" height="40"/> 
-  <img src="languages_and_tools/gatsbyjs.svg" alt="gatsby" width="40" height="40"/>
-  <img src="languages_and_tools/laravel.svg" alt="laravel" width="40" height="40"/> 
-  <img src="languages_and_tools/rails.svg" alt="rails" width="40" height="40"/>
-  <img src="languages_and_tools/react.svg" alt="react" width="40" height="40"/> 
   <img src="languages_and_tools/sklearn.svg" alt="scikit_learn" width="40" height="40"/>
   <img src="languages_and_tools/selenium.svg" alt="selenium" width="40" height="40"/>
-  <img src="languages_and_tools/sqlite.svg" alt="sqlite" width="40" height="40"/> 
-  <img src="languages_and_tools/tensorflow.svg" alt="tensorflow" width="40" height="40"/> 
 </div>
