@@ -28,6 +28,7 @@
 <h5 align="left">Frameworks and Libraries</h5>
 <div align="left">
   <img src="images/flask.jpg" alt="flask" width="40" height="40"/>
+  <img src="images/react.png" alt="react" width="40" height="40"/>
   <img src="images/selenium.png" alt="selenium" width="40" height="40"/>
   <img src="images/numpy.jpg" alt="numpy" width="40" height="40"/>
   <img src="images/scipy.jpg" alt="scipy" width="40" height="40"/>
