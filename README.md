@@ -1,6 +1,6 @@
 <h1 align="center">Hello🌙I'm Ritsuki</h1> 
 <ul>
-  <p>My Portfolio Site: <a href="https://ritsuki-i.github.io/my-portfolio/" target="blank"　rel="noopener noreferrer">https://ritsuki-i.github.io/my-portfolio/</a></p>
+  <p>My Portfolio Site: <a href="https://ritsuki-i.github.io/ritsuki-portfolio/" target="blank"　rel="noopener noreferrer">https://ritsuki-i.github.io/ritsuki-portfolio/</a></p>
   <p>Self-introduction Site: <a href="https://ritsuki-i.github.io/kadai-portfolio/" target="blank" rel="noopener noreferrer">https://ritsuki-i.github.io/kadai-portfolio/</a></p>
 </ul>
 
