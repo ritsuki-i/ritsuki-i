@@ -1,8 +1,12 @@
 <h1 align="center">Hello🌙I'm Ritsuki</h1> 
-<ul>
+<h3 align="center">
+AI Engineer | Uncertainty Estimation / Evaluation Design
+</h3>
+
+<div>
+  <p>I am a master's student in engineering, focusing on machine learning and uncertainty estimation.</p>
   <p>My Portfolio Site: <a href="https://ritsuki-i.github.io/ritsuki-portfolio/" target="blank"　rel="noopener noreferrer">https://ritsuki-i.github.io/ritsuki-portfolio/</a></p>
-  <p>Self-introduction Site: <a href="https://ritsuki-i.github.io/kadai-portfolio/" target="blank" rel="noopener noreferrer">https://ritsuki-i.github.io/kadai-portfolio/</a></p>
-</ul>
+</div>
 
 <p align="left"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ritsuki-i&theme=gruvbox&show_icons=true" />
