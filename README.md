@@ -8,12 +8,11 @@ AI Engineer | Uncertainty Estimation / Evaluation Design
   <p>My Portfolio Site: <a href="https://ritsuki-i.github.io/ritsuki-portfolio/" target="blank"　rel="noopener noreferrer">https://ritsuki-i.github.io/ritsuki-portfolio/</a></p>
 </div>
 
-<p align="left"> 
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ritsuki-i&theme=gruvbox&show_icons=true" />
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritsuki-i&layout=compact&theme=gruvbox" />
-</p>
-<img alt="Github Profile Trophy" height="150px" src="https://github-profile-trophy.vercel.app/?username=ritsuki-i&theme=gruvbox&column=7" />
-<img alt="github-profile-summary-cards" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritsuki-i&theme=dracula" />
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritsuki-i&theme=dracula&show_icons=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ritsuki-i&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ritsuki-i&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ritsuki-i&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ritsuki-i&theme=dracula&utcOffset=9)
 <table>
 <tr>
 <td><img alt="github-profile-views-counter" src="https://komarev.com/ghpvc/?username=ritsuki-i&color=orange" />
